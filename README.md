@@ -1,6 +1,8 @@
 # go-launch
 
-Go wrapper around macOS `launch_activate_socket` C function. Used to activate socket from launchd.
+Wrapper for socket activation on macOS.
+
+Exports `launch_activate_socket` C function.
 
 ## Install
 
